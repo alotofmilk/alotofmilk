@@ -1,3 +1,6 @@
+![alotofmilk GitHub Stats](https://github-readme-stats.vercel.app/api?username=alotofmilk&show_icons=true&theme=vue)
+
+
 💚 About Me
 - Ewha Womans University Computer Science & Engineering
 - 24세 | ESFP | Frontend Developer, UX Designer
