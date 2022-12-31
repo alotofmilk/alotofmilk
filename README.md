@@ -1,5 +1,6 @@
 ![alotofmilk GitHub Stats](https://github-readme-stats.vercel.app/api?username=alotofmilk&show_icons=true&theme=vue)
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
 💚 About Me
