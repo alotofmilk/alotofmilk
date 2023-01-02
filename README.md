@@ -7,9 +7,8 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
 💚 About Me
-- Ewha Womans University Computer Science & Engineering
+- Computer Science & Engineering
 - 24세 | ESFP | Frontend Developer, UX Designer
-- 2022-2 이화여자대학교 컴퓨터공학과 캡스톤디자인과창업프로젝트 포스터세션 장려상 수상
 - EVO Museum : 언리얼 엔진을 이용한 실감형 온라인 가상 전시 플랫폼 프로젝트 개발
 - 2022 네이버 부스트코스 PY4E 리드부스터
 
@@ -28,7 +27,7 @@
 - 제 가장 큰 장점은, 한 번 제대로 마음 먹은 일엔 정말로 최선을 다해 몰입할 줄 안다는 점이라고 생각해요! 해야할 일, 갈고닦아야 할 공부에 진심으로 매진하고자 위 목표를 항상 간직하며 되새기고 있습니다.
 
 이전 경험(SW 교육 경험 / 직무 경험 등)
-- 대학 강의 (그런데 이제 박살난 학점을 곁들인… 팀플/ 플젝 과목들만 에이쁠 떴슴동 😂)
+- 대학 강의
 - 2022 Naver Boost Course PY4E 리드부스터 참가, 과제 우수작 선정 다수
 
 커리어 목표와 이유
