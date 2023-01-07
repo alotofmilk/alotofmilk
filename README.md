@@ -8,7 +8,7 @@
 
 💚 About Me
 - Computer Science & Engineering
-- 24세 | ESFP | Frontend Developer, UX Designer
+- 25세 | ESFP | Frontend Developer, UX Designer
 - EVO Museum : 언리얼 엔진을 이용한 실감형 온라인 가상 전시 플랫폼 프로젝트 개발
 - 2022 네이버 부스트코스 PY4E 리드부스터
 
